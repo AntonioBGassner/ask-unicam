@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Unicam chatbot demo",
-    "headerTitle": "Unicam chatbot demo",
+    "pageTitle": "AskUnicam",
+    "headerTitle": "AskUnicam",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -22,7 +22,7 @@
     "developerSettings": "Developer settings",
 
     "chatEmptyStateTitle": "",
-    "chatEmptyStateSubtitle": "Ask anything or try an example",
+    "chatEmptyStateSubtitle": "Chiedi o seleziona una domanda",
     "defaultExamples": {
         "1": "Quali borse di studio ci sono?",
         "2": "Cosa devo fare per iniziare lo stage?",
@@ -30,7 +30,7 @@
         "placeholder": "Chiedi una domanda (Esempio: come faccio ad iscrivermi?)"
     },
 
-    "askTitle": "Ask your data",
+    "askTitle": "Chiedi aiunicam",
     "gpt4vExamples": {
         "1": "Compare the impact of interest rates and GDP in financial markets.",
         "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
